@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<breakfast-menu>
+    <food id="1">
+            <name>
+                Belgian Waffles
+            </name>
+            <price><i>$5.95</i>></price>
+        <autor>
+            Nikita Kosikov o.O
+            and Kosikov Nikita already;
+        </autor>
+    </food>
+    <food id="2">
+        <name><i/>Strawberry Belgian Waffles</name>
+        <price>$7.95</price>
+    </food>
+</breakfast-menu>
